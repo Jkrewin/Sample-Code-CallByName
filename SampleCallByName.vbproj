@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>SampleCallByName</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SampleCallByName</AssemblyName>
+  </PropertyGroup>
+
+</Project>
